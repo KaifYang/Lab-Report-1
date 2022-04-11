@@ -80,6 +80,7 @@ $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/autho
 
 ![image](https://github.com/KaifYang/Lab-Report-1/blob/main/without%20pass.png)
 ***
+
 ## Optimizing Remote Running
 
 To increase the speed of uploading your edits of local file to the server, you can do these things:
